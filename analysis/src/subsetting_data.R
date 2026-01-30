@@ -182,7 +182,8 @@ gapminder <- read.csv("data/gapminder_data.csv")
 head(gapminder)
 
 head(gapminder[[pop]])
-head
+
+
 
 
 
